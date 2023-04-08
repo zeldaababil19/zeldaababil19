@@ -31,8 +31,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeldaababil19&label=Profile%20views&color=0e75b6&style=flat" alt="zeldaababil19" /> </p>
 
-<br>
-
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## 🌐 Connect with me:
 <p align="left">
